@@ -1,3 +1,27 @@
 page-home {
 
+    .list{
+        margin:10px;
+    }
+    [ion-item]{
+        padding: 10px;
+        margin: 10px;
+        background-color:burlywood;
+        color:whitesmoke;
+    }
+    .item h2,h3,h4{
+        color:black;
+    }
+    .list-header{
+        background-color: burlywood;
+        height:60px;
+        color:black;
+    }
+    .card-content{
+  width:50px;
+  height:50px;
+    }
+.container{
+    background-color:bisque;
+}
 }
